@@ -1,4 +1,4 @@
-# ASC Code Assignmen
+# ASC Code Assignment
 
 ## How to run
 * cd into directory,
